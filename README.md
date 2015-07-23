@@ -1,4 +1,4 @@
-# srvk.github.io - The Speech Recognition Virtual Kitchen
+# srvk.github.io
 
 Please visit one of the following:
 * The [Speech Recognition Virtual Kitchen Website](http://speechkitchen.org)
